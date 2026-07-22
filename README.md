@@ -62,7 +62,7 @@ The primary goal of this repository is to strengthen programming fundamentals wh
 # Java Related Repositories
 
 - **Software Devlopment:** [SDP-1](https://github.com/rezwan-ahmed-l7/SDP-1)
-- **Study Planner:** [Study-Planner-Appp](https://github.com/rezwan-ahmed-l7/Study-Planner-Appp)
+- **Study Planner:** [Study-Planner-Appp](https://github.com/rezwan-ahmed-l7/Study-Planner-App)
 - **Calculator:** [Calculator-App](https://github.com/rezwan-ahmed-l7/Calculator-App)
 - **To Do List:** [To-Do-List-App](https://github.com/rezwan-ahmed-l7/To-Do-List-App)
   
