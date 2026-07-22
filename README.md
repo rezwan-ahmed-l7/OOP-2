@@ -61,7 +61,6 @@ The primary goal of this repository is to strengthen programming fundamentals wh
 
 # Java Related Repositories
 
-- **OOP:** [OOP-2](https://github.com/rezwan-ahmed-l7/OOP-2)
 - **Software Devlopment:** [SDP-1](https://github.com/rezwan-ahmed-l7/SDP-1)
 
 ---
