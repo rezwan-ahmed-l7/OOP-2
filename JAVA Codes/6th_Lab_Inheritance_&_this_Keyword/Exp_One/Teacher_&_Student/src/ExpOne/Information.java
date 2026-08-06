@@ -1,4 +1,4 @@
-package ExpOneInheritance;
+package ExpOne;
 
 public class Information {
 
@@ -11,4 +11,5 @@ public class Information {
         System.out.println("Name: " + name);
         System.out.println("Gender: " + gender);
     }
+
 }

@@ -1,6 +1,6 @@
-package ExpOneInheritance;
+package ExpOne;
 
-public class Student extends Information {
+public class Teacher extends Information {
 
     public String department;
 
@@ -8,4 +8,5 @@ public class Student extends Information {
         super.show1();
         System.out.println("Department: " + department);
     }
+
 }
